@@ -13,4 +13,4 @@ Use google, chatgpt and the internet to figure it out. This can be considered as
 
 The true skill is knowing what to look for and what questions to ask. Good luck.
 
-<a href="https://replit.com/@danieltheo00/mathgame">link text</a>
+<a href="https://replit.com/@danieltheo00/mathgame">C++ Math Game</a>
