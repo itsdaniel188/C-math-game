@@ -12,3 +12,5 @@ This is typically where you would get explained what every line does in the code
 Use google, chatgpt and the internet to figure it out. This can be considered as "Reverse Engineering" and in the tech industry, a lot of times you will simply find yourself researching the answer to a problem as knowing everything is impossible.
 
 The true skill is knowing what to look for and what questions to ask. Good luck.
+
+<a href="https://replit.com/@danieltheo00/mathgame">link text</a>
